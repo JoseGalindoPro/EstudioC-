@@ -1,0 +1,3 @@
+REM Inventario de fuentes para estudiar.
+REM Información de Microsoft
+https://docs.microsoft.com/es-es/visualstudio/get-started/csharp/?view=vs-2019
